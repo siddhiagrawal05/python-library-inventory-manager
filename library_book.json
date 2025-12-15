@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Thinking in Python Systems",
+        "author": "Arjun Malhotra",
+        "isbn": "001",
+        "status": "issued"
+    },
+    {
+        "title": "Core Concepts of C Programming",
+        "author": "Nikhil Deshpande",
+        "isbn": "002",
+        "status": "issued"
+    },
+    {
+        "title": "Python for Real-World Tasks",
+        "author": "Sanya Kapoor",
+        "isbn": "101",
+        "status": "issued"
+    },
+    {
+        "title": "Principles of Maintainable Code",
+        "author": "Oliver Grant",
+        "isbn": "102",
+        "status": "issued"
+    },
+    {
+        "title": "Problem Solving with Algorithms",
+        "author": "Marcus Hill",
+        "isbn": "103",
+        "status": "available"
+    },
+    {
+        "title": "Inside the C Language",
+        "author": "Rohit Kulkarni",
+        "isbn": "104",
+        "status": "available"
+    },
+    {
+        "title": "JavaScript in Modern Applications",
+        "author": "Elliot Parker",
+        "isbn": "105",
+        "status": "issued"
+    },
+    {
+        "title": "Efficient Data Structures in Python",
+        "author": "Pooja Iyer",
+        "isbn": "106",
+        "status": "available"
+    },
+    {
+        "title": "Operating Systems Demystified",
+        "author": "Leonard Watts",
+        "isbn": "107",
+        "status": "available"
+    },
+    {
+        "title": "Foundations of Database Architecture",
+        "author": "Meera Fernandes",
+        "isbn": "108",
+        "status": "issued"
+    },
+    {
+        "title": "Networking Fundamentals Explained",
+        "author": "Kunal Rao",
+        "isbn": "109",
+        "status": "available"
+    }
+]
